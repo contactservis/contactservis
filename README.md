@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![VK Badge](https://badges.pufler.dev/visits/contactservis/contactservis/)](https://vk.com/idsolovevigorvladimirovich)
+[![VK Badge](https://img.shields.io/badge/VK-profile-blue)](https://vk.com/idsolovevigorvladimirovich)
 
 <!--
 **contactservis/contactservis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
